@@ -9,8 +9,6 @@ Welcome to BibCrush, your go-to dating and social media app! BibCrush provides a
 3. Getting Started
 4. Usage
 5. Screenshots
-6. Contributing
-7. License
 
 # Introduction
 BibCrush combines the best features of dating and social media into one seamless platform. With the ability to post texts and pictures, like and comment on content, follow or crush others, and send messages, you can build meaningful connections in a fun and engaging way.
@@ -71,9 +69,4 @@ Sign out when you're done using the app.
 Screenshots
 Insert screenshots or links to screenshots here to give users a visual overview of the BibCrush app.
 
-# Contributing
-We welcome contributions! Follow our contribution guidelines to get started.
-
-# License
-This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
 
