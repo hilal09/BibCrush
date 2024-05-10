@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194587936025",
+    "project_id": "bibcrush-97726",
+    "storage_bucket": "bibcrush-97726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194587936025:android:a612781a96f5d72901f188",
+        "android_client_info": {
+          "package_name": "com.example.bibcrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHdGphDlmjJVA3HqXfFVNM--86WYZZMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
